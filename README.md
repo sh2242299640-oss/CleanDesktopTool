@@ -1,4 +1,5 @@
-# 隐藏图标
+# 隐藏图标（CleanDesktopTool）
+英文名称：CleanDesktopTool
 
 维护者：Sui碎梦
 联系方式：QQ 2242299640

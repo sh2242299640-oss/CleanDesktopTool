@@ -1,0 +1,24 @@
+# 编译输出
+bin/
+obj/
+
+# Visual Studio 缓存
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 发布与本地构建产物
+Output/
+publish/
+发布/
+
+# 本地调试与用户数据
+*.log
+*.user.config
+
+# 本地发布配置（包含绝对路径）
+**/Properties/PublishProfiles/*.pubxml
+
+/鹈鹕骑自行车.html

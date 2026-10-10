@@ -3,7 +3,7 @@
 
 维护者：Sui碎梦
 联系方式：QQ 2242299640
-
+如果觉得不错，请给我一个star哦~
 Windows 桌面图标与任务栏隐藏工具。基于 .NET Framework 4.8 和 Windows Forms。
 
 ## 功能
